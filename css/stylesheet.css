@@ -97,7 +97,7 @@ h1 {
   position: absolute;
   bottom: 20px;
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: black;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -105,7 +105,7 @@ h1 {
 }
 
 .next-button:hover, .back-button:hover {
-  background-color: #0056b3;
+  background-color: red;
 }
 
 .next-button {
