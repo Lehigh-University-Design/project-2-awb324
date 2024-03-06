@@ -83,12 +83,15 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2; 
-  color: white;
+  color:  black;
   text-align: center;
 }
 
 .text-overlay h2 {
-  font-size: 24px;
+  font-size: 40px;
+  font-family: fantasy;
+  
+
 }
 
 
